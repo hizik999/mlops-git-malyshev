@@ -1,3 +1,6 @@
 print("Start app")
 print("Train my model")
 print("Print metric")
+print("Metrics branch commit")
+print("Metrics branch commit")
+print("Train branch commit")
